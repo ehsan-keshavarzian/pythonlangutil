@@ -1,6 +1,6 @@
 
 import unittest
-from examples.overload import OverloadTest
+from pythonlangutil.examples.overload import OverloadTest
 
 
 class Test(unittest.TestCase):

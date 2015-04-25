@@ -1,6 +1,6 @@
 
 import unittest
-from examples.singleton import SingletonTest
+from pythonlangutil.examples.singleton import SingletonTest
 
 
 class Test(unittest.TestCase):

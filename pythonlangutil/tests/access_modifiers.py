@@ -1,6 +1,6 @@
 
 import unittest
-from examples.access_modifiers import PrivateVariableTest, PrivateFunctionTest,\
+from pythonlangutil.examples.access_modifiers import PrivateVariableTest, PrivateFunctionTest,\
     PrivateConstructorTest
 
 

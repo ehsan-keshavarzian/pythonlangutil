@@ -1,4 +1,4 @@
-from UtilLib.singleton import Singleton
+from pythonlangutil.singleton import Singleton
 
 @Singleton()
 class SingletonTest():

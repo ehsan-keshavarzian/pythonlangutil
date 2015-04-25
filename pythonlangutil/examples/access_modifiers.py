@@ -1,4 +1,4 @@
-from UtilLib.access_modifiers import private_variable, private_function
+from pythonlangutil.access_modifiers import private_variable, private_function
 
 
 class PrivateVariableTest(object):
