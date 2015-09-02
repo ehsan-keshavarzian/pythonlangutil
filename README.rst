@@ -4,8 +4,8 @@ Python Languauge Utilities
 
 This library provides utilities to use features of other languages in Python.
 
-.. image:: https://pypip.in/d/alveolocal/badge.png
-        :target: https://pypi.python.org/pypi/pythonlangutil
+.. image:: https://badge.fury.io/py/alveolocal.png
+    :target: http://badge.fury.io/py/pythonlangutil
 
 You can find a functional example of each feature in the examples directory. Test cases in tests directory run on top of 
 these examples to ensure the functionality.
