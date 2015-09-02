@@ -4,7 +4,7 @@ Python Languauge Utilities
 
 This library provides utilities to use features of other languages in Python.
 
-.. image:: https://badge.fury.io/py/pythonlangutil.png
+.. image:: https://badge.fury.io/py/pythonlangutil.svg
     :target: http://badge.fury.io/py/pythonlangutil
     
 .. image:: https://travis-ci.org/ehsan-keshavarzian/pythonlangutil.svg?branch=master
