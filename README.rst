@@ -7,7 +7,7 @@ This library provides utilities to use features of other languages in Python.
 .. image:: https://badge.fury.io/py/pythonlangutil.png
     :target: http://badge.fury.io/py/pythonlangutil
     
-.. image:: https://travis-ci.org/ehsan-keshavarzian/pythonlangutil.png?branch=master
+.. image:: https://travis-ci.org/ehsan-keshavarzian/pythonlangutil.svg?branch=master
         :target: https://travis-ci.org/ehsan-keshavarzian/pythonlangutil
 
 You can find a functional example of each feature in the examples directory. Test cases in tests directory run on top of 
