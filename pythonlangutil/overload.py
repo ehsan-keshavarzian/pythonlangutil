@@ -3,7 +3,10 @@
 def signature(*types):
     def func(f):
         def inner_func(callingObj, *args, **kwargs):
-            return f(callingObj, *args, **kwargs)
+            if callingObj is None:
+                return f(*args, **kwargs)
+            else:
+                return f(callingObj, *args, **kwargs)
         inner_func.signature = types
         return inner_func
     return func
