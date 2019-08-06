@@ -3,7 +3,7 @@
 def signature(*types):
     def func(f):
         def inner_func(callingObj, *args, **kwargs):
-            if callingObj == None:
+            if callingObj is None:
                 return f(*args, **kwargs)
             else:
                 return f(callingObj, *args, **kwargs)
